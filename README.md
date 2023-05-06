@@ -15,12 +15,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install followi
 pip install pygame
 ```
 
-## Usage
-
-Navigate and click main.py to open the game in pydroid3, click on start to start the game. Use control icons to move the cars in all 4 directions. Click horn button to move the coming car out of the way.
-
-Controls:
-* Control icons are available in the game.
 
 
 
